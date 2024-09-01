@@ -1,0 +1,15 @@
+{
+	"songs": [
+		{
+			"id": "1",
+			"title": "Time",
+			"artist": "Pink Floyd",
+			"album": "The Dark Side of the Moon",
+			"genre": "Progressive Rock",
+			"release_date": "1973-03-01",
+			"duration": "7:06",
+			"language": "English",
+			"mood": "reflective"
+		}
+	]
+}
